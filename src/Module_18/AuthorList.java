@@ -24,14 +24,14 @@ public class AuthorList
 		//overloaded methods
 		public int gti(int a , int b,int c)
 		{	
-			a = 170;
+			a = 270;
 			c = a-b;		
 			return c;	
 		}
 		//utility methods
 		public int rdpd(int a , int b,int c)
 		{
-			a= 130;
+			a= 150;
 			c = a-b;		
 			return c;	
 		}
@@ -51,7 +51,7 @@ public class AuthorList
 			this.fname= fname;
 			this.lname=lname;
 		}
-	 //getter methhod
+	 //getter method
 	public String getfName() 
 	{
         return fname;
