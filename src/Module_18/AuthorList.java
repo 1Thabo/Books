@@ -31,7 +31,7 @@ public class AuthorList
 		//utility methods
 		public int rdpd(int a , int b,int c)
 		{
-			a= 150;
+			a= 160;
 			c = a-b;		
 			return c;	
 		}

@@ -80,7 +80,7 @@ public class Driver{
 	    }
 	    else if (sel == 2) 
 	    {
-		System.out.println("Guide to investing costs R170");   
+		System.out.println("Guide to investing costs R160");   
 		System.out.println(""); 
 		System.out.println("Please enter deposit amount");
 		sel = sc.nextInt();	
